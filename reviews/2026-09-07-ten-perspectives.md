@@ -73,6 +73,7 @@ A cold visitor should understand Gab44, find the right astrology or numerology e
 
 - Warm cream surfaces, coral accents, symbolic color, and confident typography create a distinctive atmosphere.
 - The site feels more human and soulful than a generic black "mystical" template.
+- The live homepage contains zero image elements; emoji currently carry the entire illustrative role.
 - The same card treatment repeated 62 times flattens the emotional journey.
 - There are few visual chapter changes, featured moments, or deliberate pauses.
 - Breadth becomes encyclopedia texture instead of curated wonder.
@@ -173,6 +174,8 @@ A cold visitor should understand Gab44, find the right astrology or numerology e
 - Warm cream background and coral-led color language
 - Strong headline typography
 - "Written for one human at a time" as the human-service promise
+- The pay-after-reading promise if the result does not land
+- The concrete privacy language and 48-hour human-delivery commitment
 - Symbolic color and icon moments
 - Fast static delivery
 - The existing knowledge breadth, moved into a searchable or categorized library
