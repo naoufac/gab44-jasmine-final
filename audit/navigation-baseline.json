@@ -1,0 +1,741 @@
+{
+  "base": "https://gab44-pages.nchobah.workers.dev/gab44",
+  "homepage_anchor_count": 70,
+  "unique_internal_routes": 65,
+  "internal_results": [
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/dashboard",
+      "status": null,
+      "final_url": null,
+      "title": "",
+      "bytes_read": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "anchor_texts": [
+        "dashboard",
+        "nao_00"
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/about",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/about",
+      "title": "Zodiac Sign Personalities — All 12 Deep Profiles · gab44 ✨",
+      "bytes_read": 7986,
+      "error": null,
+      "anchor_texts": [
+        "Read the profiles → 🜂 Sign groups — elements & modalities The 4 elements (fire, earth, air, water) and 3 modalities (cardinal, fixed, mutable). Why your sign is the way it is — through the bigger pattern it belongs to."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/angel-numbers",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/angel-numbers",
+      "title": "Angel Numbers Meanings — 111, 222, 333, 444, 555, 666, 777, 888, 999, 1010, 11:11, 12:12 · gab44 ✨",
+      "bytes_read": 10923,
+      "error": null,
+      "anchor_texts": [
+        "Read the numbers → 🪐 The 10 planets — how to read your birth chart Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. The actors moving through your chart. A friendly map for reading the planets, return cycles included."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/archangels",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/archangels",
+      "title": "The 9 Archangels — Meanings, Signs &amp; How to Call · gab44 ✨",
+      "bytes_read": 14643,
+      "error": null,
+      "anchor_texts": [
+        "Meet the archangels → 🌱 Doshas — find your Ayurvedic constitution The medical-philosophical frame that the entire yogic body-practice quadrant sits inside. Three doshas — vata (air + ether, the moving), pitta (fire + water, the transforming), kapha (water + earth, the stabilizing). From the Charaka Samhita (c. 100 CE) and Sushruta Samhita (c. 600 BCE). Each page has the physical signs, the mental signs, the gift, the shadow, and how to balance with diet, asana, and pranayama. Pairs natively with the body-practice cluster — your dosha tells you which pranayama, which asana, which mantra is medicine for you specifically."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/asanas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/asanas",
+      "title": "The 16 Asanas — Meanings, How to Practise &amp; What They Do · gab44 ✨",
+      "bytes_read": 22443,
+      "error": null,
+      "anchor_texts": [
+        "Find your pose → 👼 Archangels — meanings, signs & how to call The 9 most-invoked archangels — Michael (the sword that cuts every cord), Gabriel (the messenger of every great beginning), Raphael (the emerald healer of body and journey), Uriel (the lamp through the dark night), Chamuel (the rose-pink eye that finds what was lost), Jophiel (the sunflower that lifts the heavy thought), Zadkiel (the violet flame of forgiveness), Raziel (the keeper of mysteries), Metatron (the scribe at the throne, the soul-records). Each page has the actual lineage, 5 specific signs they are with you, the concrete invocation, the gift, and honest naming of the shadow."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/aspects",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/aspects",
+      "title": "The 7 Astrology Aspects — Conjunction, Square, Trine &amp; More · gab44 ✨",
+      "bytes_read": 9395,
+      "error": null,
+      "anchor_texts": [
+        "Read the aspects → 🌑🌓🌕🌗 The 8 phases of the moon — your monthly cycle From the New Moon's blank page to the Full Moon's reveal to the Waning Crescent's quiet rest. Eight phases, each with its own ritual, its own work, its own lesson. Each guide pairs with a chakra, a healing meditation, and a stone."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/auras",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/auras",
+      "title": "Aura Colors Meaning — All 9 Auras Explained · gab44 ✨",
+      "bytes_read": 9738,
+      "error": null,
+      "anchor_texts": [
+        "Read your aura → ✨ Manifestation methods — 369, scripting, pillow, whisper, mirror & more The 10 most popular methods explained without TikTok hype: 369, scripting, pillow, whisper, 5x55, two cup, 17-second rule, vision board, letter to the universe, mirror. How each one actually works, step-by-step, common mistakes, and the deeper truth most teachers leave out — including which one is right for which kind of desire."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/aztec-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/aztec-gods",
+      "title": "The 12 Aztec / Mexica gods — the Tenochtitlán pantheon · the first pre-Columbian pantheon on gab44 · source-honest from the Florentine Codex · gab44 ✨",
+      "bytes_read": 32285,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Aztec gods → ⛩ Shinto Kami — the 12 deities of the Japanese pantheon The ninth great pantheon — and the first East Asian pantheon on gab44, closing the geographic gap of East Asia. Uniquely among great-world-pantheons, the only one that is still the state-recognized national-cultic system of a contemporary G7 country (~80,000 active Shinto shrines across Japan, ~3% identify as Shintoist but ~70% participate in at least one annual Shinto ritual). Three families. Celestial / Amatsukami (sun-gold / storm-cobalt / moon-silver / dawn-rose): Amaterasu the sun-goddess and ancestress of the imperial-line whose Ise Naikū has been rebuilt every 20 years for 1,300 years in the Shikinen Sengū continuity; Susanoo the storm-and-sea brother whose Yamata-no-Orochi slaying at the Hi River in Izumo produced the Kusanagi sword; Tsukuyomi the silent mysterious moon-brother whose Ukemochi-slaying ended cosmic sun-moon co-presence; Ame-no-Uzume the dawn-dancer whose ecstatic dance on the overturned tub at the heavenly-river-bed lured Amaterasu out of the Iwato rock-cave — the foundational performing-arts narrative of every kagura, gigaku, bugaku, noh, kabuki, and butoh. Earthly / Kunitsukami (earth-brown / vermillion-fox / forest-stag / dragon-blue): Ōkuninushi great-land-master of Izumo and kami of enmusubi-binding-of-all-relationships, host of the annual October Kamiari-conference at Izumo Taisha; Inari rice-and-fox-kami of ~32,000 of Japan's ~80,000 shrines (the most-numerous single kami), patron of Fushimi Inari Taisha with its iconic 10,000+ vermillion torii; Sarutahiko the great earthly-kami who met Ninigi at the Eight-Crossroads-of-Heaven and was disarmed by Uzume's laughing-grin; Watatsumi the dragon-king of the underwater Ryūgū-jō Dragon-Palace, source of the two cosmic-tide-jewels and cosmic-maternal-grandfather of the imperial-line via Toyotama-hime. Syncretic / Shinbutsu (warrior-purple / Sarasvatī-pearl / fisherman-coral / cherry-blossom-pink): Hachiman the warrior-Bodhisattva of ~25,000 shrines, the first kami granted the Buddhist title Daibosatsu in 749 CE inaugurating the honji-suijaku synthesis, patron of the Minamoto samurai and the Kamakura shogunate; Benzaiten the Indian-Vedic Sarasvatī arrived via the Sutra of Golden Light and fully-Japanized as the only female of the Seven Lucky Gods; Ebisu the only-fully-Japanese member of the Seven Lucky Gods, originally the rejected leech-child Hiruko cast out to sea and cosmic-rehabilitated as the laughing-fisherman-luck-kami; Konohana-no-Sakuya-hime the cherry-blossom-and-Mount-Fuji princess and cosmic-foundational figure of mono no aware (the cosmic-aesthetic of the pathos of ephemeral things). Kojiki (712 CE) / Nihon Shoki (720 CE) / Engishiki (927 CE) / Fudoki / Norito / Manyōshū / Motoori-Norinaga / Hardacre source-honest. Shadow-honest about the 1868 Meiji Shinbutsu-bunri separation that destroyed the 1,200-year-old Buddhist-Shinto honji-suijaku synthesis, State Shinto 1868-1945, the imperial-divinity-myth and Yasukuni-controversy, the Lafcadio-Hearn / Joseph-Campbell Western reductions to \"nature-religion,\" and the post-Studio-Ghibli kami-as-anime-spirits flattening."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/bach-flowers",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/bach-flowers",
+      "title": "The 38 Bach Flower Remedies — Dr. Edward Bach's 1936 System · gab44 ✨",
+      "bytes_read": 21583,
+      "error": null,
+      "anchor_texts": [
+        "Find your remedy → 🌙 Nakshatras — all 27 Vedic lunar mansions The finer-resolution Vedic wheel — the 27 divisions of the ecliptic the Moon traverses in a sidereal month, three nakshatras to every two zodiac signs. Ashwini (the first hooves, Aries 0°), Bharani (the bearing-vessel, Yama's threshold), Krittika (Agni's purifying blade, the foster-mothers of Skanda), Rohini (the Moon's exaltation, the chariot of growth) … through to Revati (Pushan's safe passage, the fish that brings the wanderer home, Pisces 30°). Lineage: Vedanga Jyotisha (c. 1400-1200 BCE), Brihat Parashara Hora Shastra (c. 4th c. CE). Each page has the deity, the planetary ruler, the symbol, the gana, what the nakshatra is in love and in work, the gift, the shadow. Your Moon's nakshatra is the single most predictive Vedic placement — finer than a Sun-sign, more specific than a Vedic dosha."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/celtic-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/celtic-gods",
+      "title": "The 12 Celtic Gods — Tuatha Dé Danann · Sovereigns, Trí Dée Dána, Threshold & Wild — source-honest · gab44 ✨",
+      "bytes_read": 19318,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Celtic gods → 🥁 Orishas — the 12 deities of the Yoruba pantheon The first Afro-diasporic pantheon on gab44. The orishas of the Yoruba homeland (southwestern Nigeria) and the African Atlantic diaspora — Cuban Lukumí / Santería, Brazilian Candomblé, the African-American spiritual lineages — whose festivals on the beaches of Salvador da Bahia and Rio de Janeiro every December 31 and February 2 fill the Atlantic with white-clad celebrants by the million. Three families. Heads of Heaven (white-cloth / red-and-black / volcano / deep-indigo): Obatalá the cool-headed elder who sculpted human heads from clay and owns every orí (destiny-of-the-head), Eleguá (Èṣù-Elégbára) the crossroads-opener honored-first in every ritual and catastrophically mistranslated by 19th-c. missionaries as \"the devil,\" Aganjú the volcano-king-and-ferryman of the impossible-passage (syncretized as Saint Christopher), Olokun the unseen owner of the depths whose face you cannot look at and who in diaspora-practice became the ancestor of the Middle-Passage drowned. Mothers & Lovers of Water (ocean-blue / river-gold / storm-purple / earth-burlap): Yemayá (Iemanjá) the mother of all orishas whose Brazilian December-31-beach-festival is the largest Afro-religious gathering in the world, Oshún the river-of-honey-and-gold patron-saint of Cuba and the only female orisha who can speak Ifá, Oyá (Iansã) the storm-wind-and-cemetery-gatekeeper who is the only orisha who can lead the dead through the gates, Babalú-Ayé the wounded-healer-of-disease syncretized as Saint Lazarus the leper who in the 1980s-90s diaspora became the primary orisha of refuge for HIV-positive practitioners. Warriors & Hunters of the Forest (thunder-red-white / iron-green-black / bow-turquoise / herb-green): Shangó the king of thunder who was the historical fourth Alaafin of the Oyo Empire (Oba ko so — the king did not hang), Ogún the owner of iron and road-cutter whose modern domain has expanded to cars-airplanes-electronics, Oshosi the hunter-archer of justice whose Saint-Sebastian syncretization is the namesake of Rio de Janeiro, Òsanyìn the one-eyed-one-armed-one-legged owner of all herbs without whose permission no other orisha can be fed. Each page: Ifá-Odu / Pataki / Bascom / Verger / Cabrera / Thompson source-honest, iconography, invocation, in love + in work, the gift, the shadow (Eshu-as-devil missionary mistranslation, Hollywood voodoo demonization, Catholic-saint syncretization as both survival-strategy and modern-erasure, post-2015 uninitiated-white commercial commodification — named honestly per orisha), lineage-respectful (introduction-not-consecration), paired zodiac sign + planet + chakra."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/chakras",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/chakras",
+      "title": "The 7 Chakras — Meaning, Colors, Healing, Affirmations · gab44 ✨",
+      "bytes_read": 9993,
+      "error": null,
+      "anchor_texts": [
+        "Walk the column → ↻ Major transits — Saturn return, Mercury retrograde & more The six big astrology moments — three retrogrades, two returns, the once-in-a-lifetime Pluto pass. What each one means, what it feels like, what to do, what to avoid, the deeper lesson. The seasons that mark a life."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/chinese",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/chinese",
+      "title": "Chinese Zodiac — All 12 Animals, Personality &amp; Compatibility · gab44 ✨",
+      "bytes_read": 11834,
+      "error": null,
+      "anchor_texts": [
+        "Find your animal → 🐺 The 12 spirit animals walking with us Wolf, Eagle, Bear, Owl, Lion, Hawk, Snake, Butterfly, Deer, Fox, Horse, Hummingbird — when an animal keeps showing up in your dreams or on your path, it's usually carrying a message. What each one means, when it appears, the gift, the shadow, the lesson. Each guide pairs with a chakra, a healing sound, and a stone."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/chinese-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/chinese-gods",
+      "title": "The 12 Chinese deities — the Daoist · Buddhist · folk pantheon · the tenth pantheon on gab44 · source-honest from the Daodejing, Zhuangzi, Shanhaijing, Lotus Sutra, Journey to the West, Investiture of the Gods, Romance of the Three Kingdoms · gab44 ✨",
+      "bytes_read": 21763,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Chinese deities → 🐦‍⬛ Norse Gods — the 10 beings behind the runes The peer pantheon to the Hindu devas. The Eddic gods the Elder Futhark on gab44 has been invoking silently in every cast — and the Norse strand behind Yule on the Wheel of the Year. Three families. Aesir court (Asgard sky): Odin the Allfather (one-eyed, hanged on Yggdrasil for the runes), Thor the thunderer, Loki the trickster, Frigg the foreknowing queen, Tyr the one-handed lawspeaker, Heimdall the watcher at Bifrost, Baldur the shining-one-who-returns-after-Ragnarök. Vanir (earth-fertility, taught seidr to the Aesir): Freya the lady of seidr, Freyr the sacred king who gave away his sword for love. Helheim: Hel, daughter of Loki, queen of the ordinary dead — the figure most distorted by Christianization. Each page: Eddic source (Poetic Edda, Snorri 1220, Saxo 1200, Adam of Bremen 1075, Tacitus 98), iconography, invocation, in love + in work, the gift, the shadow (folkish/SS appropriation, Marvel-flattening, Christianization — named honestly per god), paired rune + sabbat."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/clairs",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/clairs",
+      "title": "The 8 Clair Senses — Are You Psychic? Find Your Channel · gab44 ✨",
+      "bytes_read": 13370,
+      "error": null,
+      "anchor_texts": [
+        "Find your clair → 🎴 Tarot court cards — Page, Knight, Queen, King × 4 suits The 16 court cards every reader gets stuck on — Page of Cups through King of Pentacles. Plus the 4 suit overviews (Cups=feeling, Wands=fire, Swords=mind, Pentacles=body). Read by rank for the maturity, by suit for the realm, then ask: who in my life is bringing this energy — or which version of me is being asked to step forward? Together with the 22 Majors and the 8 spreads, this completes the most-searched half of the 78-card tarot deck."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/compatibility",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/compatibility",
+      "title": "Zodiac Compatibility — All 78 Pairs · gab44 ✨",
+      "bytes_read": 17456,
+      "error": null,
+      "anchor_texts": [
+        "Browse pairs → 📜 Sign personalities — 12 deep profiles Evergreen, careful guides to each zodiac sign — core energy, gifts, shadows, love, career, spiritual gift, the lesson of this lifetime."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/crystals",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/crystals",
+      "title": "Crystals & Birthstones for Every Zodiac Sign — Healing Stones Guide · gab44 ✨",
+      "bytes_read": 9519,
+      "error": null,
+      "anchor_texts": [
+        "Find your stones → ✨ Angel numbers — 111, 222, 333, 11:11, more When the same digits keep finding you, they're saying something. Thirteen evergreen guides — the spiritual message, in love, in career, twin flame, what to do when you see it."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/crystals-for",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/crystals-for",
+      "title": "Crystals by Intent — For Anxiety, Love, Money, Sleep, Protection &amp; More · gab44 ✨",
+      "bytes_read": 11887,
+      "error": null,
+      "anchor_texts": [
+        "Pick your kit → ᚠ Elder Futhark runes — all 24 meanings Pulled a rune and want the meaning right now? All 24 Elder Futhark runes — Fehu (cattle, abundance) through Othala (ancestral home). Each one carries the upright reading, the reversed/merkstave reading, what it means in love and in work, the gift it teaches, and the shadow it casts. Norse divination, written warm — distinct from tarot (78 cards, narrative) because runes are 24 *forces*, closer to weather than to characters."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/devas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/devas",
+      "title": "The 12 Hindu Devas — Sanskrit deities, source-honest · gab44 ✨",
+      "bytes_read": 12245,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 devas → ⚡ Olympian Gods — the 12 beings behind the zodiac The peer pantheon to the Hindu devas and Norse gods. The Greek Olympians every zodiac sign on gab44 has been invoking silently — Aries is Ares, Libra is Aphrodite, Sagittarius is Zeus, Pisces is Poseidon. Three families. Cronid sovereigns (gold / rose / sea-blue / wheat): Zeus the thunderer-king, Hera the queen of heaven, Poseidon the earth-shaker, Demeter the grain-mother of the Eleusinian Mysteries. Bright Olympians (grey-eyed / sun-gold / moon-silver / rose): Athena wisdom-strategist, Apollo prophecy-music-healing-plague, Artemis lady of wild things, Aphrodite foam-born desire. Workshop & ecstatic (crimson / forge-bronze / mercury / wine-purple): Ares slayer of men, Hephaestus the lame smith, Hermes the messenger-psychopomp, Dionysus the twice-born dying-and-rising god. Each page: Homer-Hesiod source-honest (Iliad, Theogony, the Homeric Hymns, Euripides Bacchae, Apollodorus, Pausanias), iconography, invocation (Tuesday-Mars, Wednesday-Mercury, Thursday-Jupiter, Friday-Venus across Romance languages), in love + in work, the gift, the shadow (19th-c. Hellenist-supremacist appropriation, sanitized rape-myths in Zeus & Apollo, white-marble fantasy, Nazi-era Olympia, Disney/Percy Jackson flattening — named honestly per god), paired zodiac sign + planet."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/doshas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/doshas",
+      "title": "The 3 Doshas — Vata, Pitta, Kapha · Find Your Ayurvedic Constitution · gab44 ✨",
+      "bytes_read": 6262,
+      "error": null,
+      "anchor_texts": [
+        "Find your dosha → 🌸 Bach Flower Remedies — all 38 essences Dr. Edward Bach's 1936 system. The most emotionally direct surface in the funnel — each remedy addresses ONE specific named state. Fear (5): Rock Rose (terror), Mimulus (known fears), Cherry Plum (fear of losing control), Aspen (vague dread), Red Chestnut (fear for others). Uncertainty (6): Cerato, Scleranthus, Gentian, Gorse, Hornbeam, Wild Oat. Not present (7): Clematis (drift), Honeysuckle (past), Wild Rose (apathy), Olive (exhaustion), White Chestnut (loops), Mustard (cloud), Chestnut Bud (repeats). Loneliness (3): Water Violet, Impatiens, Heather. Over-sensitive (4): Agrimony (mask), Centaury (no boundaries), Walnut (transition), Holly (hatred). Despair (8): Larch, Pine, Elm, Sweet Chestnut, Star of Bethlehem, Willow, Oak, Crab Apple. Over-care (5): Chicory, Vervain, Vine, Beech, Rock Water. Each page: the state, the shift, in love, in work, a 5-minute practice, chakra + crystal pair."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/dreams",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/dreams",
+      "title": "Dream Meaning &amp; Symbol Dictionary — 12 Archetypal Dreams Explained · gab44 ✨",
+      "bytes_read": 10974,
+      "error": null,
+      "anchor_texts": [
+        "Read your dream → 🃏 Tarot spreads — how to read each layout Three-card, Celtic Cross, love, yes/no, career, daily draw, relationship, year-ahead. The 8 spreads every reader uses. When to pick each one, the position-by-position layout, how to read it, common mistakes, the deeper lesson. Pairs with the 22-card Major Arcana guides — each spread cross-links to the cards that show up most often inside it."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/egyptian-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/egyptian-gods",
+      "title": "The 12 Egyptian Gods — Solar Court, Osirian Cycle, Memphite & Hermopolitan, source-honest · gab44 ✨",
+      "bytes_read": 16235,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Egyptian gods → ☘️ Celtic Gods — the 12 Tuatha Dé Danann The Iron Age Irish-Celtic pantheon — the People of the Goddess Danu — whose place-names still cover Ireland and whose sabbats are the Wheel of the Year on gab44 (Imbolc is Brigid's day, Lughnasadh is named for Lugh, Samhain is the Morrígan's-and-Macha's threshold, Beltane is Cernunnos-and-Aengus-peak-fertility). Three families. Sovereigns of the Tuatha (gold / emerald): the Dagda the all-father with the cauldron-of-plenty and the great-club-of-life-and-death, Danu the primordial river-mother for whom the entire pantheon is named (the Danube and the Don bear her name across the Indo-European arc), Lugh Lámhfada the Many-Skilled sun-king who killed Balor of the Evil Eye with one spear-throw, Nuada Airgetlám the first king with the silver arm whose Lydney-Park Romano-British healing-cult was decoded by J.R.R. Tolkien. Trí Dée Dána · craft & inspiration (copper / silver / bronze): Brigid the triple-goddess of fire-poetry-smithcraft and keeper of the perpetual flame at Kildare (Christianized as Saint Brigid without continuity-break, re-lit by the Brigidine Sisters in 1993), Ogma champion-of-words and inventor of the Ogham script (the Gaulish Ogmios whose chains of amber and gold ran from his tongue to the ears of his followers), Goibniu the divine smith who forged the unbeatable spears with three strokes and brewed the Fled Goibnenn ale of immortality, Aengus Óg the dreamer-lover of the Aislinge Óenguso whose four kisses became the songbirds that fly around lovers in Irish poetry forever. Threshold & Wild (stag-brown / sea-blue / raven-black / blood-red): Cernunnos the Horned One whose cross-legged Lord-of-the-Beasts pose is preserved on the Pillar of the Boatmen Paris c. 14-37 CE and the Gundestrup Cauldron Denmark c. 100 BCE (the medieval Devil acquired his antlers in 11th-13th-c. Christian art), Manannán mac Lir the sea-god and master of the Féth Fíada magical-mist who hid the Tuatha after their defeat, the Morrígan the triple-Great-Queen of war-and-sovereignty-and-prophecy who united with the Dagda at the ford on Samhain, Macha the sovereignty-and-horses goddess for whom Emain Macha and Ard Macha are named (the foundational Irish proto-feminist Macha-Mongruad who defeated five male claimants to the high-kingship and ruled alone). Each page: Lebor-Gabála / Cath-Maige-Tuired / Táin-Bó-Cúailnge / Mabinogi / Pillar-of-the-Boatmen / Gundestrup-Cauldron source-honest, iconography, invocation, in love + in work, the gift, the shadow (Celtic-Twilight romantic-revival flattening, Iolo-Morganwg 18th-c. forgeries, Margaret-Murray witch-cult-hypothesis, white-nationalist Cernunnos co-option, Christian erasure of the Morrígan, the silent extraction of Brigid into Saint-Brigid, the Saint-Patrick overlay on Ard Macha — named honestly per god), paired zodiac sign + planet + sabbat."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/empath",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/empath",
+      "title": "The 7 Types of Empath — Which One Are You? · Signs, Gifts, Shadows · gab44 ✨",
+      "bytes_read": 10713,
+      "error": null,
+      "anchor_texts": [
+        "Find your type → 🌸 Sacred geometry — 10 patterns mystics keep pointing at From the Flower of Life (the master pattern, found in Egyptian temples and Renaissance manuscripts) to the Fibonacci Spiral (nature's growth signature, in shells and galaxies). Three families: circles-of-life (flower, seed, fruit, vesica) = the unfolding family; cosmic 3D (metatron's cube, merkaba, platonic solids, torus) = the building blocks; flow patterns (sri yantra, fibonacci) = the growth signatures. Symbols hang on walls; geometries hold the wall up — meaning, history, and the practice each shape is asking you to embody."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/geometry",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/geometry",
+      "title": "Sacred Geometry — 10 Shapes That Mystics Have Pointed At for Millennia · gab44 ✨",
+      "bytes_read": 12362,
+      "error": null,
+      "anchor_texts": [
+        "Read a geometry → 🎧 Solfeggio frequencies — all 9 tones, what each one carries From 174 Hz (foundation, the body settles) to 963 Hz (unity, separation dissolves). Six of the nine tones map one-to-one onto the chakras — the cleanest sound-to-body map there is. Each frequency has a job (release, change, love, connection, expression, awakening), a chakra, and a practice that makes it land. Honest about both what the tone *does* (signals permission) and what it *doesn't* (do the work for you)."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/goddesses",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/goddesses",
+      "title": "The 12 Goddesses — Archetypes, Signs &amp; How to Call · gab44 ✨",
+      "bytes_read": 17642,
+      "error": null,
+      "anchor_texts": [
+        "Meet the goddesses → ☯ I Ching — all 64 hexagrams The Yi Jing, the Book of Changes — c. 1000 BCE Zhou-dynasty core, the oldest divination text in continuous use. Sixty-four hand-written guides in classical King Wen order. The Creative · The Receptive · Difficulty at the Beginning · Waiting · Conflict · The Army · ... · Before Completion. Four families: Beginnings (the foundational images), Cycles (how the situation moves), Trials (the descent and the well), Completion (revolution, cauldron, before-and-after). Each page: the hexagram, when you pull it, the changing lines, in love, in work, the gift, the shadow."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/greek-heroes",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/greek-heroes",
+      "title": "The 12 Greek Heroes — Mortals Who Walked the Threshold · gab44 ✨",
+      "bytes_read": 13243,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Greek heroes → ☥ Egyptian Gods — 12 deities of the Two Lands The densest grief / death / threshold / household-protection cluster in all of comparative mythology. Three families. Solar Court (gold / coral / amber / crimson): Ra the king who fights Apophis at the seventh hour, Horus the falcon-heir who inherits the throne, Hathor the golden cow-mother of joy and music, Sekhmet the lioness whose Festival of Drunkenness brings her home. Osirian Cycle (green / lapis / black / red): Osiris the first who died and rose, Isis Great-of-Magic who gathered the fourteen pieces, Anubis the jackal at the Weighing of the Heart, Set the brother-disturber who also slays Apophis nightly. Memphite & Hermopolitan (turquoise / mercury / feather-white / cat-green): Ptah the master-craftsman who creates by heart-and-tongue (the Logos-theology fifteen centuries before John's Gospel), Thoth Trismegistus scribe-of-the-gods, Ma'at the cosmic-truth-feather, Bastet the household-cat-protector. Each page: Pyramid-Text / Coffin-Text / Book-of-the-Dead / Plutarch / Herodotus source-honest, iconography, invocation, in love + in work, the gift, the shadow (Egyptomania racial-erasure, Hollywood-Anubis-as-villain, Thelemic Horus, New-Age Isis, white-nationalist Set, the silent extraction of Ptah-Logos and Ma'at-wisdom into Hermetic / Christian / New-Age Western religion — named honestly per god), paired zodiac sign + planet."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/groups",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/groups",
+      "title": "Zodiac Sign Groups — Elements & Modalities · All 7 Cross-Sign Patterns · gab44 ✨",
+      "bytes_read": 7429,
+      "error": null,
+      "anchor_texts": [
+        "Browse the 7 patterns → 🌙 Moon signs — your inner weather Your sun sign is who you act like. Your moon sign is how you actually feel — emotional core, attachment style, what soothes, what stresses. Twelve deep evergreen guides."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/horoscopes",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/horoscopes",
+      "title": "Daily Horoscopes — All 12 Signs · gab44 ✨",
+      "bytes_read": 6082,
+      "error": null,
+      "anchor_texts": [
+        "Read today's horoscope → updated daily 3-5 sentences no woo-woo 💞 Zodiac compatibility — all 78 pairs Every sign × every sign. The spark, the friction, the underrated gift, one move this week. Pick any two — yours and theirs."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/houses",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/houses",
+      "title": "The 12 Houses of Astrology — Meaning, Themes, Planets · gab44 ✨",
+      "bytes_read": 10175,
+      "error": null,
+      "anchor_texts": [
+        "Browse the houses → 🔢 Numerology — your life path number Astrology reads the sky at your birth. Numerology reads the math. Nine single-digit paths plus three master numbers (11, 22, 33) — twelve evergreen guides to the number running underneath you."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/iching",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/iching",
+      "title": "I Ching — All 64 Hexagrams · gab44 ✨",
+      "bytes_read": 37231,
+      "error": null,
+      "anchor_texts": [
+        "Consult the I Ching → 🌑 Kleshas — Patanjali's 5 yogic afflictions Yoga Sutra II.3-II.9 — the five obstacles the eight limbs were designed to dissolve. Avidya (the root: mistaking the impermanent for the permanent, the body for the self — the master ignorance). And its four branches: asmita (the I-am-ness that confuses the witness with the witnessed), raga (the pull that follows pleasure), dvesha (the push that follows pain), abhinivesha (the cellular clinging to life — present, Patanjali notes, even in the wise). Where the yamas + niyamas are what you practice, the kleshas are what you see. Each page names the source-sutra, what the klesha looks like in love and in work, the gift, the shadow, and the direct ethical antidote."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/kleshas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/kleshas",
+      "title": "The 5 Kleshas — Patanjali's Yogic Afflictions · YS 2.3-2.9 · gab44 ✨",
+      "bytes_read": 7900,
+      "error": null,
+      "anchor_texts": [
+        "See the 5 afflictions → 🪷 Hindu Devas — the 12 most-searched Sanskrit deities The who behind every mantra, mudra, asana, pranayama, eight-limb, yama/niyama, klesha, dosha, and nakshatra already on gab44. Four families. Trimurti (saffron / sky-blue / obsidian): Brahma the creator, Vishnu the preserver, Shiva the transformer. Avatars (indigo / jade / sindoor): Krishna the divine lover, Rama the dharmic king, Hanuman the perfect devotee. Mahadevis (gold / white / crimson / rose): Lakshmi abundance, Saraswati wisdom, Durga warrior, Parvati devoted householder. Sons of Shiva (rose / peacock): Ganesh remover of obstacles, Kartikeya spiritual warrior. Each page: source-text (Rig Veda hymn / Purana / Ramayana / Gita / Kalidasa / Tulsidas / Arunagirinathar), the iconography, the canonical invocation, in love + in work, the gift, the shadow (Hindutva weaponization, commercial flattening, appropriation — named honestly per deva), paired chakra + mantra."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/limbs",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/limbs",
+      "title": "The Eight Limbs of Yoga — Patanjali Yoga Sutra · Ashtanga · gab44 ✨",
+      "bytes_read": 14288,
+      "error": null,
+      "anchor_texts": [
+        "Walk the eight-limb path → 📿 Mantras — 12 sacred chants, what they mean & how to chant From Om (the seed of all sound) to Om Ah Hum (body, speech, mind). Three families: seed mantras (Om, So Hum, Sat Nam — the bija sounds), heart mantras (Om Mani Padme Hum, Lokah Samastah, Tara, Shanti — the compassion family), and power mantras (Gayatri, Om Namah Shivaya, Ganesha, Hare Krishna, Om Ah Hum — the devotion family). Each page has the actual lineage, the translation, the concrete chant practice, and honest framing about appropriation. Cross-tied to the chakra and the healing audio that pair with each one."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/lunar",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/lunar",
+      "title": "The 8 Phases of the Moon — Spiritual Meaning &amp; Rituals · gab44 ✨",
+      "bytes_read": 9874,
+      "error": null,
+      "anchor_texts": [
+        "Walk the cycle → 🐉 The 12 animals of the Chinese zodiac Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig — twelve year-animals carrying the five elements. Personality, in love, in career, who they match with, the year ahead. Pairs beautifully with your Western chart."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/manifestation",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/manifestation",
+      "title": "Manifestation Methods — 369, Scripting, Pillow, Whisper, 5x55, Mirror & More · gab44 ✨",
+      "bytes_read": 11054,
+      "error": null,
+      "anchor_texts": [
+        "Pick your method → 💎 Crystals by intent — for anxiety, love, money, sleep, protection & more 10 hand-written kits by what you're actually trying to feel or shift: crystals for anxiety, sleep, love, money, protection, confidence, grief, clarity, healing, manifestation. Top 3 stones per kit, supporting stones, how to use them, cleanse them, charge them — and the deeper truth about what crystals can and can't do. Distinct from per-sign crystals (which are about your zodiac); these are about your season."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/mantras",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/mantras",
+      "title": "The 12 Mantras — Meanings, Translations &amp; How to Chant · gab44 ✨",
+      "bytes_read": 17676,
+      "error": null,
+      "anchor_texts": [
+        "Read a mantra → 🤲 Mudras — 16 sacred hand gestures, what they carry & how to hold Sound + gesture is the canonical yogic-buddhist pairing — mudras are the body half of the offering mantras give voice to. From Gyan (the meditation gesture, finger meets thumb) and Anjali (palms at heart, namaste) to Kalesvara (the time-stilling gesture for the racing mind). Three families: foundation (Gyan, Chin, Anjali, Dhyana, Prana — the daily-gesture family), heart (Hridaya, Padma, Abhaya, Varada, Bhumisparsha — the compassion family), and power (Shuni, Surya, Vayu, Apana, Shunya, Kalesvara — the elemental family balancing the five elements and the inner planets). Each page has the lineage (Hatha Yoga Pradipika, Gheranda Samhita, Buddhist iconography), what the gesture does in the body and nervous system, how to form it (finger placement, breath, duration), the gift, the shadow."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/mesopotamian-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/mesopotamian-gods",
+      "title": "The 12 Mesopotamian gods — the Sumerian-Akkadian-Babylonian pantheon · the OLDEST written religion · source of zodiac and the 7 classical planets · gab44 ✨",
+      "bytes_read": 25815,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Mesopotamian gods → 🪶 Aztec / Mexica Gods — the 12 deities of Tenochtitlán The eighth great pantheon — and the first pre-Columbian pantheon on gab44, closing the geographic gap of the Americas. The youngest fully-documented great pantheon (Tenochtitlán 1325-1521 CE, less than 200 years of imperial-cult-practice but inheriting a millennium of pre-Mexica Mesoamerican religion from the Olmecs c. 1200 BCE, Teotihuacan c. 100-650 CE, and the Toltecs c. 950-1150 CE) — and the only one with first-generation conquistador-and-friar ethnography (Bernardino de Sahagún interviewed surviving Mexica elders in Nahuatl in the 1550s-1580s and the 12-book Florentine Codex is the result). Three families. Primordial & Cosmic (cosmic-violet / quetzal-jade / smoking-obsidian / Fifth-Sun-coral): Ometeotl the cosmic-dual-principle of Omeyocan-the-thirteenth-heaven invoked only in the philosophical-poetry of the tlamatinime; Quetzalcoatl the feathered-serpent civilizer-priest-king whose return-prophecy Moctezuma II mistook for Cortés in 1519 — the single-most-politically-consequential religious-mistake in world history; Tezcatlipoca the smoking-mirror trickster-fate-god whose Toxcatl-festival was the site of Pedro de Alvarado's 1520 massacre; Tonatiuh the Fifth-Sun whose Calendar Stone is the single-most-iconic Mexica sculpture. Earth, Water & Fertility (storm-jaguar-blue / jade-river-teal / serpent-skirt-forest / cherry-cosmic-pink): Tlaloc the goggle-eyed storm-god with iconography unchanged from Teotihuacan c. 100 CE through 1521; Chalchiuhtlicue the jade-skirted lady-of-all-surface-water whose baptism-rite became Catholic baptism in unbroken continuity; Coatlicue the serpent-skirted earth-mother whose Coatlicue-Monolith was twice-buried by 18th-c. antiquarians as too-frightening; Xochiquetzal the flower-quetzal goddess of beauty, art, the in-xochitl-in-cuicatl flower-and-song aesthetic. War, Death & Renewal (Mexica-blue / Mictlan-violet / Xipe-crimson / cosmic-Milky-Way): Huitzilopochtli the Hummingbird-of-the-Left whose eagle-on-the-cactus-with-the-snake omen is still the Mexican flag five centuries after conquest; Mictlantecuhtli the skeletal king of Mictlan whose Hueymiccailhuitl is the direct ancestor of the modern Day-of-the-Dead; Xipe Totec the Flayed Lord of agricultural-spring-renewal whose maize-seed-cosmology-applied-to-the-human-warrior-body is the most-philosophically-difficult Mexica ritual; Mixcoatl the Cloud-Serpent of the Milky-Way and cosmic-father of the Chichimec-hunter-lineage. Florentine-Codex / Codex-Borgia / Leyenda-de-los-Soles / Cantares-Mexicanos source-honest. Shadow-honest about Cortés 1519-1521, Landa's auto-da-fé 1562, the Black Legend, the Mexicayotl revival, the Penacho de Moctezuma repatriation dispute, and the 2017-2020 tzompantli skull-rack archaeological reinterpretations."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/moon",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/moon",
+      "title": "Moon Signs — All 12 · Emotional Life, Attachment, What Soothes · gab44 ✨",
+      "bytes_read": 7522,
+      "error": null,
+      "anchor_texts": [
+        "Read your moon sign → ✨ Rising signs — the mask the world meets first Your ascendant is the costume your soul wears in this lifetime — first impression, body style, social mask, defense mechanism, life chapters. The third leg of the big three."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/mudras",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/mudras",
+      "title": "The 16 Mudras — Meanings, How to Hold &amp; What They Do · gab44 ✨",
+      "bytes_read": 19200,
+      "error": null,
+      "anchor_texts": [
+        "Find your mudra → 🌬️ Pranayama — 10 breath practices, what they do & how to practise Breath is the third leg of the body-practice tripod. From Nadi Shodhana (the daily balancing breath, alternate-nostril) and Ujjayi (the ocean breath that holds a yoga practice together) to Wim Hof (the modern cold-and-breath protocol). Three families: foundation (Nadi Shodhana, Ujjayi, Diaphragmatic, Box — the daily-safe family), cooling (Bhramari humming-bee, Sitali tongue-curl, 4-7-8 — the parasympathetic family), and heating (Kapalabhati skull-shining, Bhastrika bellows, Wim Hof — the sympathetic family). Each page has the actual rhythm, the lineage, what the breath does in the body and the nervous system, and the contraindications named explicitly."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/nakshatras",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/nakshatras",
+      "title": "The 27 Nakshatras — Vedic Lunar Mansions · Meanings, Deities, Rulers &amp; How to Work With Each · gab44 ✨",
+      "bytes_read": 32604,
+      "error": null,
+      "anchor_texts": [
+        "Find your nakshatra → 🌿 Yamas & Niyamas — the 10 ethics of Patanjali The first two limbs of yoga, expanded into the 10 individual ethics they contain. 5 yamas (outward, sunrise saffron): ahimsa (non-violence), satya (truthfulness), asteya (non-stealing), brahmacharya (right use of energy), aparigraha (non-grasping). 5 niyamas (inward, dusk indigo): saucha (cleanliness), santosha (contentment), tapas (discipline), svadhyaya (self-study), ishvara-pranidhana (surrender to the divine). From Yoga Sutras 2.30 + 2.32. Each page names the sutra reference, the fruit Patanjali names (YS 2.35–2.45 — \"in the presence of one rooted in ahimsa, hostility ceases\" / \"from contentment, unsurpassable happiness\" / \"from surrender, samadhi itself\"), and a 30-day practice. The ground under every other practice."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/norse-gods",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/norse-gods",
+      "title": "The 10 Norse Gods — Aesir, Vanir, Helheim, source-honest · gab44 ✨",
+      "bytes_read": 11968,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 10 Norse gods → 🌒 Wheel of the Year — 8 Wiccan sabbats The seasonal-pagan year as a complete cycle. 4 cross-quarter fire festivals (Gaelic origin, ember amber): Samhain (Oct 31, the thin veil, Celtic new year), Imbolc (Feb 1, Brigid's flame, first stirrings), Beltane (May 1, the May fires, peak fertility), Lughnasadh (Aug 1, first grain harvest, Lugh's assembly). 4 solar gates (astronomical, sky gold): Yule (winter solstice, the sun reborn), Ostara (spring equinox, light equals dark), Litha (summer solstice, the longest day), Mabon (autumn equinox, second balance). Each page has the date (northern + southern), the lineage from the Tochmarc Emire / Bede / Gerald Gardner, what to actually do (the bonfire, the bread, the herbs, the ancestor altar), in love, in work, the gift, the shadow. The pagan calendar made readable."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/numerology",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/numerology",
+      "title": "Numerology Life Path Numbers — All 12 Meanings (1-9 + Master 11, 22, 33) · gab44 ✨",
+      "bytes_read": 10943,
+      "error": null,
+      "anchor_texts": [
+        "Find your life path → 💎 Crystals & birthstones — three stones per sign Not a curio cabinet — a working kit. An anchor stone, a companion, and one for the harder days. All twelve signs with traditional birthstones, how to use, what to avoid."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/olympians",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/olympians",
+      "title": "The 12 Olympian Gods — Cronid sovereigns, Bright Olympians, Workshop & Ecstatic, source-honest · gab44 ✨",
+      "bytes_read": 14685,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Olympians → ⚔️ Greek Heroes — the 12 mortals who walked the threshold The companion funnel to the Olympians — where the Olympians are immortal sovereigns, the heroes are the mortals who walked between human and divine. Three families. Strongmen (bronze-gold): Heracles the lion-skinned twelve-labored bastard-of-Zeus deified at Mount Oeta, Theseus the Minotaur-slayer who forgot to change the black sail and founded Athens by synoikismos, Perseus the Medusa-slayer-by-mirror-shield and founder of Mycenae, Bellerophon the Pegasus-rider who flew too close to Olympus and wandered the Aleian plain eating his own soul. Cunning Wanderers (wine-purple): Odysseus the polytropos \"of many turns\" who came home to Ithaca disguised as a beggar after twenty years, Jason the Argonaut-leader who won the Fleece only through Medea's magic and died asleep under his own rotting Argo, Cadmus the Phoenician prince sent to find Europa who founded Thebes instead and brought the alphabet to Greece, Achilles the half-divine warrior whose mēnis opens the Iliad and whose grief at Patroclus' death converted to apocalyptic rage. Threshold Crossers (twilight-violet): Orpheus the singer who descended alive to Hades and lost Eurydice by glancing back one step too soon, Asclepius the founder of medicine who raised the dead and was struck by Zeus' thunderbolt for upsetting the cosmic-order, Atalanta the bear-mother-raised huntress beaten only by Hippomenes' three golden apples, Hippolyta the Amazon queen whose destruction is depicted on the Parthenon itself. Homer / Hesiod / Apollodorus / Ovid / Pausanias source-honest. Shadow-honest about Disney/Marvel sanitization, gym-bro Heracles commodification, Pre-Raphaelite eroticization, Cixous-Medusa re-reading, Atwood-Penelopiad re-reading, the unread Amazonomachy-on-the-Parthenon, Bellerophon's suppressed cautionary-tale-of-pride, the Achilles-Patroclus love-relationship recovered from Victorian-suppression. Each hero pairs with sign + planet + chakra."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/orishas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/orishas",
+      "title": "The 12 Orishas — the Yoruba pantheon · Heads of Heaven, Waters, Warriors & Hunters of the Forest — source-honest · gab44 ✨",
+      "bytes_read": 20863,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 orishas → 𒀭 Mesopotamian Gods — the 12 Sumerian-Akkadian-Babylonian deities · the cradle of the zodiac The seventh great pantheon on gab44 — and the oldest written religion on the site (clay-tablet attestation from c. 3000 BCE Sumer) and the literal source of the 12-sign zodiac and the 7 classical planets that every other astrological surface on gab44 is downstream of (the MUL.APIN astronomical compendium c. 1000 BCE is the canonical source-document). Three families. Anu-Enlil sovereigns of the cosmos (sky-blue / wind-storm / fresh-water / primordial-salt): Anu sky-father atop the 7-tier ziggurat-cosmos, Enlil wind-and-storm Lord-of-the-Air whose Ekur temple at Nippur was the cosmic-centre, Enki / Ea the freshwater-craftsman-trickster of the Abzu who saved humanity in Atra-Hasis (the Mesopotamian Noah), Tiamat the primordial salt-water-mother defeated by Marduk in the Enuma Elish. Astral court (sun-gold / moon-silver / Venus-rose / city-purple): Shamash / Utu sun-judge under whose patronage Hammurabi received the Code, Sin / Nanna moon-king whose Lament for Ur is the oldest preserved city-elegy, Inanna / Ishtar the Descent-to-the-Underworld goddess whose three-days-on-the-hook predates Christ by 2,000 years, Marduk Babylon's patron who killed Tiamat and built the cosmos from her body. Underworld & specialists (war-red / scribe-indigo / hunter-bronze / queen-obsidian): Nergal plague-and-war king of Kutha, Nabu the scribal Lord of Ezida at Borsippa whose name became the Hebrew nāḇîʾ \"prophet\" (Mount Nebo), Ninurta hunter-warrior of the Anzu-Bird-slaying epic, Ereshkigal queen of the underworld and Inanna's elder sister. Enuma-Elish, Gilgamesh, Descent-of-Inanna, Atra-Hasis, Hammurabi, Enheduanna, MUL.APIN source-honest. Biblical-extraction-honest: Atra-Hasis→Noah, Hammurabi→Mosaic law, Nabu→nāḇîʾ, Inanna→Marian Queen-of-Heaven, three-days-on-the-hook→resurrection. First pantheon on gab44 covering ALL 12 zodiac signs."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/personal-year",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/personal-year",
+      "title": "Personal Year Numerology — All 9 Years of the Cycle Explained · gab44 ✨",
+      "bytes_read": 14162,
+      "error": null,
+      "anchor_texts": [
+        "Find your personal year → 🪬 The 8 clair senses — am I psychic? find your channel Clairvoyance (clear seeing), clairaudience (clear hearing), claircognizance (clear knowing), clairsentience (clear feeling), clairempathy (clear emotional reading), clairalience (clear smelling), clairgustance (clear tasting), clairtangency (clear touching / psychometry). The 8 channels through which intuition speaks. Every human has at least one — most have a primary plus a secondary. Distinct from the 7 empath types (which is which kind of signal you receive); the clairs are how the message gets in."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/planets",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/planets",
+      "title": "The 10 Planets in Astrology — How to Read Your Birth Chart · gab44 ✨",
+      "bytes_read": 10592,
+      "error": null,
+      "anchor_texts": [
+        "Read the planets → 🟥🟧🟨💚🟦🟪 The 7 chakras — your energy map Root, sacral, solar plexus, heart, throat, third eye, crown. What each centre governs, signs of an open vs blocked chakra, what blocks it, how to open it, four affirmations each. Pairs with crystals and healing sounds."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/pranayama",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/pranayama",
+      "title": "The 10 Pranayamas — Meanings, How to Practise &amp; What They Do · gab44 ✨",
+      "bytes_read": 17323,
+      "error": null,
+      "anchor_texts": [
+        "Find your breath → 🧘 Asanas — 16 yoga poses, what they carry & how to practise Posture is the fourth leg of the body-practice quadrant — sound, gesture, breath, and now shape. From Tadasana (the daily standing pose, mountain) and Balasana (child's pose, the universal rest) to Ananda Balasana (the bliss-child pose). Four families: grounding (Mountain, Child, Down-Dog, Corpse — the daily family), heart (Cobra, Camel, Bridge, Fish — the chest-throat openers), power (Warrior One, Tree, Chair, Plank — the activating family), and restorative (Legs-Up-the-Wall, Butterfly, Seated Forward Fold, Happy Baby — the surrender family). Each page has the actual alignment, the Sanskrit lineage, the contraindications, the gift, and the shadow."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/reading",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/reading",
+      "title": "gab44 — your personal reading ✨",
+      "bytes_read": 15996,
+      "error": null,
+      "anchor_texts": [
+        "Request your reading → 1-2 page reading delivered in 48h kept private 🛠️ Tools we actually use Honest picks — these are what we run our own work on."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/rising",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/rising",
+      "title": "Rising Signs — All 12 · Ascendant, First Impression, Life Path · gab44 ✨",
+      "bytes_read": 8395,
+      "error": null,
+      "anchor_texts": [
+        "Read your rising sign → 🃏 Tarot — all 22 Major Arcana From the Fool's leap to the World's completion. Twenty-two evergreen guides — upright meaning, reversed, in love, in career, the spiritual gift, the moment when you pull the card."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/runes",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/runes",
+      "title": "Elder Futhark Runes — All 24 Meanings · Upright, Reversed, In Love &amp; Work · gab44 ✨",
+      "bytes_read": 17811,
+      "error": null,
+      "anchor_texts": [
+        "Pull a rune → ☥ Spiritual symbols — 12 most-asked meanings Wearing an ankh, a hamsa, an evil eye? Drawn to the lotus, the om, the triquetra in a dream? The 12 most-searched spiritual symbols across all of search — origin, meaning, the message it carries, the misuse to avoid, the gift it teaches, the shadow it casts. Four families: protection (hamsa, eye of horus, evil eye), devotion (ankh, om, lotus), cosmos (mandala, yin-yang, tree of life), pagan craft (triquetra, pentagram, triple moon). A symbol is not jewellery — it is a contract. Pick the one whose work you want to do."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/sabbats",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/sabbats",
+      "title": "The Wheel of the Year · 8 Wiccan Sabbats · Samhain, Yule, Imbolc, Ostara, Beltane, Litha, Lughnasadh, Mabon · gab44 ✨",
+      "bytes_read": 10442,
+      "error": null,
+      "anchor_texts": [
+        "Turn the wheel → 🌿 Healing sounds Five guided meditations, original audio, free to listen. Made slowly, with care."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/sefirot",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/sefirot",
+      "title": "The 10 Sefirot of the Tree of Life — Meanings, Correspondences &amp; How to Work With Each · gab44 ✨",
+      "bytes_read": 18038,
+      "error": null,
+      "anchor_texts": [
+        "Walk the Tree of Life → 🌹 Goddesses — archetypes, signs & how to call 12 goddess archetypes from living traditions — Lilith (the first refusal, sovereignty), Hecate (the threshold-keeper at the crossroads), Kali (fierce love that destroys what enslaves), Inanna (the descender through the seven gates), Kuan Yin (the heart that hears), Tara (the swift compassion), Mary Magdalene (apostle of the apostles), Brigid (sacred flame, healing wells), Isis (the gatherer of the scattered), Sophia (cosmic wisdom), Aphrodite (eros as sacred path), Persephone (queen of the two realms). Honest about lineage, honest about appropriation. Each page has the recognition signs, the concrete invocation, the gift and the shadow."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/shinto-kami",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/shinto-kami",
+      "title": "The 12 Shinto kami — the Japanese pantheon · the first East Asian pantheon on gab44 · source-honest from the Kojiki (712 CE) and Nihon Shoki (720 CE) · gab44 ✨",
+      "bytes_read": 38087,
+      "error": null,
+      "anchor_texts": [
+        "Meet the 12 Shinto kami → 🐉 Chinese Deities — the 12 of the Daoist · Buddhist · folk pantheon The tenth great pantheon — and the most-populous pantheon by living adherents (~300-400M Chinese folk-religion practitioners plus the transnational Mazu, Guanyin, and Guan Yu diaspora cults across Taiwan, Hong Kong, Singapore, Malaysia, and Chinatowns worldwide). The only pantheon that survived a state-sponsored Cultural-Revolution destruction (1966-1976, ~70-90% of Buddhist and Daoist temples destroyed) and a contemporary Sinicization-of-religion (中国化) campaign under Xi Jinping (2015-). The pantheon that integrates Daoism, Buddhism, Confucian ancestor-veneration, and folk religion into the unique San Jiao (三教 \"Three Teachings\") syncretism — and the pantheon whose celestial bureaucracy literally mirrors the imperial Chinese administration (ministries, vice-ministers, demotions, promotions, paper joss-money memos, an annual kǎohé performance-review of every god). Three families. Celestial Sovereigns (imperial-gold / peach-purple / cosmic-chaos / serpent-rose): Yu-Huang / Jade Emperor the supreme bureaucratic sovereign whose 9th-day-of-1st-lunar-month Bài Tiān Gōng birthday is the largest annual religious holiday in Hokkien Taiwan and the Chinese diaspora; Xi-Wang-Mu / Queen Mother of the West the primordial pre-cosmic goddess of Mount Kunlun with her peach-of-immortality (蟠桃) grove; Pangu the cosmic giant who emerged from the primordial chaos-egg and separated heaven from earth over 18,000 years before his body became the world; Nüwa the serpent-bodied creator who shaped humanity from yellow clay and patched the broken sky with five-colored stones. Compassion, Earth & Scholar (lotus-blue / scholar-cobalt / earth-tan / wealth-gold): Guanyin the bodhisattva of compassion — the Chinese gender-flip of Avalokiteśvara, the single most-worshipped female deity on Earth; Wenchang Wang the patron of literature and the imperial-examination (科举) system that organized Chinese civil-service for 1,300 years (605-1905 CE); Tu Di Gong the local-earth-god of every neighborhood, the most-omnipresent deity in Chinese folk religion with shrines on every street corner from Taipei to San Francisco Chinatown; Caishen the god of wealth whose 5th-day-of-new-year firecracker-welcoming is the most-performed annual religious act in the Chinese-speaking world. Warriors, Trickster & Underworld (loyalty-red / monkey-orange / hell-violet / sea-cyan): Guan Yu the Three Kingdoms general deified as god of loyalty, brotherhood, business — the most-paradoxical deity-cult in the modern world, worshipped simultaneously by Hong Kong police AND Hong Kong triads; Sun Wukong the Monkey King of Journey to the West (1592), arguably the most-adapted character in world literature (1,000+ adaptations including Goku, Naruto bunshin, Avatar airbending, Marvel Shang-Chi, Black Myth: Wukong); Yan Wang king of the Ten Courts of Hell, the Indian-Vedic Yama-Rāja syncretized with Chinese-Daoist underworld bureaucracy; Mazu the goddess of the sea (~5,000 temples worldwide, ~100M+ devotees, UNESCO Intangible Cultural Heritage 2009 — the Dajia Mazu 9-day pilgrimage in Taiwan attracts ~1M participants annually). Daodejing / Zhuangzi / Shanhaijing / Lotus Sutra / Romance of the Three Kingdoms / Journey to the West / Investiture of the Gods / Yuli Baochao / Mazu annals source-honest. Shadow-honest about the Cultural-Revolution temple-destruction, the Xi-Jinping Sinicization campaign, the Falun-Gong suppression, the 19th-c. Orientalist construction of \"Chinese religion,\" the missionary erasure, the white-New-Age Tao-of-Pooh commodification, the gym-Tai-Chi register, the Mazu Taiwan-vs-mainland political instrumentalization, the Guan-Yu police-and-triads double-worship, and the Disney/Marvel/Dragon-Ball Western flattening."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/solfeggio",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/solfeggio",
+      "title": "Solfeggio Frequencies — All 9 Tones &amp; What They Carry · gab44 ✨",
+      "bytes_read": 11752,
+      "error": null,
+      "anchor_texts": [
+        "Find your frequency → 🪷 The Eight Limbs of Yoga — Patanjali's path The canonical 8-limb framework from the Yoga Sutra (c. 200 BCE-200 CE): yama (ethics) → niyama (observance) → asana (posture) → pranayama (breath) → pratyahara (sense-withdrawal) → dharana (concentration) → dhyana (meditation) → samadhi (absorption). The master frame that holds every body-practice and meditation-practice gab44 publishes — each limb page positions our mantras, mudras, asanas, and pranayamas as steps on this canonical path."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/spirit-animals",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/spirit-animals",
+      "title": "Spirit Animals — All 12, Meanings &amp; What It Means When They Appear · gab44 ✨",
+      "bytes_read": 11869,
+      "error": null,
+      "anchor_texts": [
+        "Meet your spirit animal → 💞 Twin flames — the 8 stages of the journey Recognition, awakening, testing, crisis, runner & chaser, surrender, reunion, mission. The most painful, most necessary spiritual relationship there is. What each stage feels like, how to know which one you're in, what helps, what to stop doing. Written warm, written by someone who has lived it."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/symbols",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/symbols",
+      "title": "Spiritual Symbols — All 12 Meanings · Ankh, Hamsa, Om, Lotus, Pentagram &amp; More · gab44 ✨",
+      "bytes_read": 12824,
+      "error": null,
+      "anchor_texts": [
+        "Read a symbol → 💗 The 7 types of empath — which one are you? You feel things other people don't feel. The question is *which* things, and *how* the information arrives. Three registers, seven types: feeling-types (emotional, physical), knowing-types (intuitive, heyoka), world-types (geomantic, plant-animal, dream). Every page has the actual signs (so you can recognise yourself), the gift you carry, the shadow it casts when untrained, and the protection practice that keeps the channel without making you the channel. Most empaths are a primary plus a secondary — read the closest type first."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot",
+      "title": "Tarot Major Arcana — All 22 Card Meanings · gab44 ✨",
+      "bytes_read": 13360,
+      "error": null,
+      "anchor_texts": [
+        "Read the cards → 🏛️ The 12 houses of astrology Where the signs are how and the planets are what, the houses are where. Identity, money, home, partnership, transformation, career — twelve evergreen guides to the territory of your chart."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/court",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/court",
+      "title": "Tarot Court Cards — All 16 Pages, Knights, Queens &amp;amp; Kings · gab44 ✨",
+      "bytes_read": 16590,
+      "error": null,
+      "anchor_texts": [
+        "Read the court → 🃏 Tarot minor arcana — all 40 pip cards (Ace through Ten) The 40 most-pulled cards in any tarot reading — Ace of Cups through Ten of Pentacles. Every card explained: upright meaning, reversed, in love, in work, the gift, the shadow, when you pull this card, three honest questions. Together with the 22 Majors, 16 Courts, 4 Suits, and 8 Spreads — this completes the full 78-card tarot deck on gab44. Read the suit for the realm (heart, will, mind, matter), the rank for the stage (1=beginning · 10=completion), then ask: where is this energy showing up in my life right now?"
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/minor",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/minor",
+      "title": "Tarot Minor Arcana — All 40 Pip Cards (Ace through Ten) · gab44 ✨",
+      "bytes_read": 24248,
+      "error": null,
+      "anchor_texts": [
+        "Read all 40 minors → 🌈 Aura colors — the energy field around you Red, orange, yellow, green, blue, indigo, violet, pink, white. The 9 main aura colors — what each one says about you, the gifts, the shadows, signs your aura is strong vs muddy. Distinct from chakras (which are inside the body); auras are the field around it."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/spreads",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/spreads",
+      "title": "The 8 Most-Pulled Tarot Spreads — How to Read Each, Layout &amp; Lessons · gab44 ✨",
+      "bytes_read": 9836,
+      "error": null,
+      "anchor_texts": [
+        "Pick a spread → 🌀 Personal Year cycle — what year of the 9-year cycle are you in? Everyone is in a 9-year cycle. Year 1 plants seeds, Year 5 brings change, Year 7 is the inner year, Year 8 is harvest, Year 9 is closure. Calculate yours from your birth month + day + the current year. Each year carries its own theme, its own gift, its own shadow, its own daily practice. Knowing the year you are in is the difference between pushing against the current and using it. Distinct from your Life Path number (which is your soul's identity and does not change) — Personal Year is the energy of THIS calendar year for you specifically."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/transits",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/transits",
+      "title": "The 6 Major Astrology Transits — Mercury Retrograde, Saturn Return &amp; More · gab44 ✨",
+      "bytes_read": 9036,
+      "error": null,
+      "anchor_texts": [
+        "Read the transits → △ ☌ □ The 7 aspects — how planets talk to each other If signs are how and houses are where, aspects are who they're talking to. Conjunction, sextile, square, trine, opposition, quincunx, semi-sextile — the geometry of your inner conversation. Each with its gift, its work, and its lesson."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/twin-flames",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/twin-flames",
+      "title": "Twin Flames — All 8 Stages of the Journey, Signs &amp; What Helps · gab44 ✨",
+      "bytes_read": 10060,
+      "error": null,
+      "anchor_texts": [
+        "Walk the journey → 💤 Dreams — what your unconscious is telling you Snake, falling, teeth, being chased, water, death, flying, fire, naked, baby, spider, ex-partner. The 12 dreams every adult has had. What each is processing, the common variants, the warning, the gift, the question to ask yourself. Almost no dream is literal — and the unconscious works hard while you sleep."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/gab44/yamas-niyamas",
+      "status": 200,
+      "final_url": "https://gab44-pages.nchobah.workers.dev/gab44/yamas-niyamas",
+      "title": "The 10 Yamas &amp; Niyamas of Yoga · Patanjali's Ethics · gab44 ✨",
+      "bytes_read": 11918,
+      "error": null,
+      "anchor_texts": [
+        "Walk the 10 ethics → 🌳 Sefirot — Tree of Life, all 10 sephirot The Kabbalistic Etz Chaim — the canonical Western mystical map. Ten sephirot down three pillars: Kether (crown, the unknowable source), Chokmah & Binah (wisdom and understanding), Chesed & Geburah (mercy and severity), Tiferet (beauty, the heart of the tree), Netzach & Hod (eternity and splendor), Yesod (foundation, dream and astral), Malkuth (kingdom, embodied earth). Lineage: Sefer Yetzirah (c. 200 CE), the Zohar (c. 1280 CE), Lurianic Kabbalah (c. 1570 CE). Each sefirah page pairs with its archangel, planet, tarot card, and chakra — the densest internal-link surface on gab44."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/healing",
+      "status": null,
+      "final_url": null,
+      "title": "",
+      "bytes_read": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "anchor_texts": [
+        "Listen → ✉️ Personal life-path reading — $9 For you, your partner, your kid, your parent. A real reading written for one human, not a template. Delivered by email within 48 hours.",
+        "healing"
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/manus",
+      "status": null,
+      "final_url": null,
+      "title": "",
+      "bytes_read": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "anchor_texts": [
+        "manus"
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/metrics/api-use",
+      "status": null,
+      "final_url": null,
+      "title": "",
+      "bytes_read": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "anchor_texts": [
+        "metrics gab44 ✦ astrology with soul readings, written for one human at a time. Daily energy. Life-path mappings. Healing sounds. A council of three quiet advisors behind every answer — built by someone who actually does this for his own family. ✨ Daily horoscopes — all 12 signs Today's energy for your sign — warm, modern, written daily. No \"the planets align\" filler. One concrete energy, one practical move, one tiny encouragement."
+      ]
+    },
+    {
+      "url": "https://gab44-pages.nchobah.workers.dev/voice",
+      "status": null,
+      "final_url": null,
+      "title": "",
+      "bytes_read": 0,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "anchor_texts": [
+        "voice"
+      ]
+    }
+  ],
+  "external_links": [
+    {
+      "href": "https://try.elevenlabs.io/6ieh81n1v8o6",
+      "resolved": "https://try.elevenlabs.io/6ieh81n1v8o6",
+      "text": "🎙️ ElevenLabs"
+    },
+    {
+      "href": "https://www.iherb.com",
+      "resolved": "https://www.iherb.com",
+      "text": "🌿 iHerb gab44 is a personal brand by"
+    },
+    {
+      "href": "https://nchobah.com",
+      "resolved": "https://nchobah.com",
+      "text": "Naoufal Chobah. Made in Chiang Mai with respect to the practice. 🇲🇦🇹🇭 v1 · 1970-01-01 · powered by"
+    }
+  ]
+}
