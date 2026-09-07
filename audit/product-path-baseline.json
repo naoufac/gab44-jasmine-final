@@ -1,0 +1,29 @@
+{
+  "audited_date": "2026-09-07",
+  "live_url": "https://gab44-pages.nchobah.workers.dev/gab44",
+  "checks": {
+    "paid_reading_submit": {
+      "method": "POST",
+      "path": "/gab44/reading/submit",
+      "payload": "empty form payload to avoid creating a real order",
+      "http_status": 404,
+      "body_contains": "Not found"
+    },
+    "client_submit_target": {
+      "verified_in_bundle": true,
+      "target": "/gab44/reading/submit",
+      "method": "POST"
+    },
+    "author_link": {
+      "url": "https://nchobah.com",
+      "dns_resolves": false,
+      "curl_error": "Could not resolve host"
+    },
+    "homepage_markers": {
+      "1970-01-01": true,
+      "Tools we actually use": true,
+      "static-preview": false,
+      "powered by nao_00": false
+    }
+  }
+}
