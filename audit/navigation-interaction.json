@@ -1,0 +1,1400 @@
+{
+  "url": "https://gab44-pages.nchobah.workers.dev/gab44",
+  "tested_at": "2026-09-07T00:44:33.676Z",
+  "viewports": {
+    "desktop": {
+      "http": 200,
+      "title": "gab44 — astrology with soul ✨",
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "candidates": [],
+      "clickResults": [],
+      "initial": {
+        "headers": [],
+        "navs": [
+          {
+            "text": "dashboard voice healing manus metrics",
+            "visible": true,
+            "links": [
+              {
+                "tag": "A",
+                "text": "dashboard",
+                "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "voice",
+                "href": "https://gab44-pages.nchobah.workers.dev/voice",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "healing",
+                "href": "https://gab44-pages.nchobah.workers.dev/healing",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "manus",
+                "href": "https://gab44-pages.nchobah.workers.dev/manus",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "metrics",
+                "href": "https://gab44-pages.nchobah.workers.dev/metrics/api-use",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              }
+            ]
+          }
+        ],
+        "buttons": [],
+        "links": [
+          {
+            "tag": "A",
+            "text": "dashboard",
+            "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "voice",
+            "href": "https://gab44-pages.nchobah.workers.dev/voice",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "healing",
+            "href": "https://gab44-pages.nchobah.workers.dev/healing",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "manus",
+            "href": "https://gab44-pages.nchobah.workers.dev/manus",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "metrics",
+            "href": "https://gab44-pages.nchobah.workers.dev/metrics/api-use",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "Read today's horoscope →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/horoscopes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta"
+          },
+          {
+            "tag": "A",
+            "text": "Browse pairs →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/compatibility",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the profiles →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/about",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Browse the 7 patterns →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/groups",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your moon sign →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/moon",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your rising sign →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/rising",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the cards →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Browse the houses →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/houses",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your life path →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/numerology",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your stones →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/crystals",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the numbers →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/angel-numbers",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the planets →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/planets",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the column →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chakras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the transits →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/transits",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the aspects →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/aspects",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the cycle →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/lunar",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your animal →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chinese",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet your spirit animal →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/spirit-animals",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the journey →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/twin-flames",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your dream →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/dreams",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick a spread →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/spreads",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your personal year →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/personal-year",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your clair →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/clairs",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the court →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/court",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read all 40 minors →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/minor",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your aura →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/auras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick your method →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/manifestation",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick your kit →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/crystals-for",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pull a rune →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/runes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a symbol →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/symbols",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your type →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/empath",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a geometry →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/geometry",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your frequency →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/solfeggio",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the eight-limb path →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/limbs",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a mantra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mantras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your mudra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mudras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your breath →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/pranayama",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your pose →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/asanas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the archangels →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/archangels",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your dosha →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/doshas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your remedy →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/bach-flowers",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your nakshatra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/nakshatras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the 10 ethics →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/yamas-niyamas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the Tree of Life →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/sefirot",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the goddesses →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/goddesses",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Consult the I Ching →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/iching",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "See the 5 afflictions →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/kleshas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 devas →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/devas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Olympians →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/olympians",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Greek heroes →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/greek-heroes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Egyptian gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/egyptian-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Celtic gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/celtic-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 orishas →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/orishas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Mesopotamian gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mesopotamian-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Aztec gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/aztec-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Shinto kami →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/shinto-kami",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Chinese deities →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chinese-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 10 Norse gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/norse-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Turn the wheel →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/sabbats",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Listen →",
+            "href": "https://gab44-pages.nchobah.workers.dev/healing",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Request your reading →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/reading",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta"
+          },
+          {
+            "tag": "A",
+            "text": "🎙️ ElevenLabs",
+            "href": "https://try.elevenlabs.io/6ieh81n1v8o6",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "🌿 iHerb",
+            "href": "https://www.iherb.com/",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Naoufal Chobah",
+            "href": "https://nchobah.com/",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "nao_00",
+            "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          }
+        ]
+      }
+    },
+    "mobile": {
+      "http": 200,
+      "title": "gab44 — astrology with soul ✨",
+      "consoleErrors": [],
+      "candidates": [],
+      "clickResults": [],
+      "initial": {
+        "headers": [],
+        "navs": [
+          {
+            "text": "dashboard voice healing manus metrics",
+            "visible": true,
+            "links": [
+              {
+                "tag": "A",
+                "text": "dashboard",
+                "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "voice",
+                "href": "https://gab44-pages.nchobah.workers.dev/voice",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "healing",
+                "href": "https://gab44-pages.nchobah.workers.dev/healing",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "manus",
+                "href": "https://gab44-pages.nchobah.workers.dev/manus",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              },
+              {
+                "tag": "A",
+                "text": "metrics",
+                "href": "https://gab44-pages.nchobah.workers.dev/metrics/api-use",
+                "visible": true,
+                "ariaExpanded": null,
+                "ariaControls": null,
+                "class": ""
+              }
+            ]
+          }
+        ],
+        "buttons": [],
+        "links": [
+          {
+            "tag": "A",
+            "text": "dashboard",
+            "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "voice",
+            "href": "https://gab44-pages.nchobah.workers.dev/voice",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "healing",
+            "href": "https://gab44-pages.nchobah.workers.dev/healing",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "manus",
+            "href": "https://gab44-pages.nchobah.workers.dev/manus",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "metrics",
+            "href": "https://gab44-pages.nchobah.workers.dev/metrics/api-use",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "Read today's horoscope →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/horoscopes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta"
+          },
+          {
+            "tag": "A",
+            "text": "Browse pairs →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/compatibility",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the profiles →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/about",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Browse the 7 patterns →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/groups",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your moon sign →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/moon",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your rising sign →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/rising",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the cards →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Browse the houses →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/houses",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your life path →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/numerology",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your stones →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/crystals",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the numbers →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/angel-numbers",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the planets →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/planets",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the column →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chakras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the transits →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/transits",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the aspects →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/aspects",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the cycle →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/lunar",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your animal →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chinese",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet your spirit animal →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/spirit-animals",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the journey →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/twin-flames",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your dream →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/dreams",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick a spread →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/spreads",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your personal year →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/personal-year",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your clair →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/clairs",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read the court →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/court",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read all 40 minors →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/tarot/minor",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read your aura →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/auras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick your method →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/manifestation",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pick your kit →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/crystals-for",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Pull a rune →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/runes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a symbol →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/symbols",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your type →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/empath",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a geometry →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/geometry",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your frequency →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/solfeggio",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the eight-limb path →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/limbs",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Read a mantra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mantras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your mudra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mudras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your breath →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/pranayama",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your pose →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/asanas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the archangels →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/archangels",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your dosha →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/doshas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your remedy →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/bach-flowers",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Find your nakshatra →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/nakshatras",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the 10 ethics →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/yamas-niyamas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Walk the Tree of Life →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/sefirot",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the goddesses →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/goddesses",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Consult the I Ching →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/iching",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "See the 5 afflictions →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/kleshas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 devas →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/devas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Olympians →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/olympians",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Greek heroes →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/greek-heroes",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Egyptian gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/egyptian-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Celtic gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/celtic-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 orishas →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/orishas",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Mesopotamian gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/mesopotamian-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Aztec gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/aztec-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Shinto kami →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/shinto-kami",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 12 Chinese deities →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/chinese-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Meet the 10 Norse gods →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/norse-gods",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Turn the wheel →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/sabbats",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Listen →",
+            "href": "https://gab44-pages.nchobah.workers.dev/healing",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Request your reading →",
+            "href": "https://gab44-pages.nchobah.workers.dev/gab44/reading",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta"
+          },
+          {
+            "tag": "A",
+            "text": "🎙️ ElevenLabs",
+            "href": "https://try.elevenlabs.io/6ieh81n1v8o6",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "🌿 iHerb",
+            "href": "https://www.iherb.com/",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": "cta outline"
+          },
+          {
+            "tag": "A",
+            "text": "Naoufal Chobah",
+            "href": "https://nchobah.com/",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          },
+          {
+            "tag": "A",
+            "text": "nao_00",
+            "href": "https://gab44-pages.nchobah.workers.dev/dashboard",
+            "visible": true,
+            "ariaExpanded": null,
+            "ariaControls": null,
+            "class": ""
+          }
+        ]
+      }
+    }
+  }
+}
